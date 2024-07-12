@@ -47,5 +47,5 @@ for click in range(2000):
             break
 
 
-time.sleep(20)
+time.sleep(15)
 driver.quit()
